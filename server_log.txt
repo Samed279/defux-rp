@@ -1,0 +1,411 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:48:27] 
+[12:48:27] Server Plugins
+[12:48:27] --------------
+[12:48:27]  Loading plugin: mysql
+[12:48:28]   Failed.
+[12:48:28]  Loading plugin: streamer
+[12:48:29]   Failed.
+[12:48:29]  Loading plugin: dc_cmd
+[12:48:30]   Daniel's CMD plugin v2.8
+[12:48:30]     (c) 2014 Daniel_Cortez
+[12:48:30] 	www.pro-pawn.ru
+[12:48:30]   Loaded.
+[12:48:30]  Loaded 1 plugins.
+
+[12:48:30] 
+[12:48:30] Filterscripts
+[12:48:30] ---------------
+[12:48:30]   Loaded 0 filterscripts.
+
+[12:48:30] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[12:48:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:51:35] 
+[12:51:35] Server Plugins
+[12:51:35] --------------
+[12:51:35]  Loading plugin: mysql
+[12:51:36]   Failed.
+[12:51:36]  Loading plugin: streamer
+[12:51:36]   Failed.
+[12:51:36]  Loading plugin: dc_cmd
+[12:51:36]   Daniel's CMD plugin v2.8
+[12:51:36]     (c) 2014 Daniel_Cortez
+[12:51:36] 	www.pro-pawn.ru
+[12:51:36]   Loaded.
+[12:51:36]  Loaded 1 plugins.
+
+[12:51:36] 
+[12:51:36] Filterscripts
+[12:51:36] ---------------
+[12:51:36]   Loaded 0 filterscripts.
+
+[12:51:36] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[12:51:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:52:58] 
+[12:52:58] Server Plugins
+[12:52:58] --------------
+[12:52:58]  Loading plugin: mysql
+[12:53:11]   Failed.
+[12:53:11]  Loading plugin: streamer
+[12:53:12]   Failed.
+[12:53:12]  Loading plugin: dc_cmd
+[12:53:12]   Daniel's CMD plugin v2.8
+[12:53:12]     (c) 2014 Daniel_Cortez
+[12:53:12] 	www.pro-pawn.ru
+[12:53:12]   Loaded.
+[12:53:12]  Loaded 1 plugins.
+
+[12:53:12] 
+[12:53:12] Filterscripts
+[12:53:12] ---------------
+[12:53:12]   Loaded 0 filterscripts.
+
+[12:53:12] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[12:53:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:55:39] 
+[12:55:39] Server Plugins
+[12:55:39] --------------
+[12:55:39]  Loading plugin: mysql
+[12:55:40]  >> plugin.mysql: R39-6 successfully loaded.
+[12:55:40]   Loaded.
+[12:55:40]  Loading plugin: streamer
+[12:55:40] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[12:55:40]   Loaded.
+[12:55:40]  Loading plugin: dc_cmd
+[12:55:40]   Daniel's CMD plugin v2.8
+[12:55:40]     (c) 2014 Daniel_Cortez
+[12:55:40] 	www.pro-pawn.ru
+[12:55:40]   Loaded.
+[12:55:40]  Loaded 3 plugins.
+
+[12:55:40] 
+[12:55:40] Filterscripts
+[12:55:40] ---------------
+[12:55:40]   Loaded 0 filterscripts.
+
+[12:55:40] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[12:55:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:56:15] 
+[12:56:15] Server Plugins
+[12:56:15] --------------
+[12:56:15]  Loading plugin: mysql
+[12:56:15]  >> plugin.mysql: R39-6 successfully loaded.
+[12:56:15]   Loaded.
+[12:56:15]  Loading plugin: streamer
+[12:56:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[12:56:15]   Loaded.
+[12:56:15]  Loading plugin: dc_cmd
+[12:56:15]   Daniel's CMD plugin v2.8
+[12:56:15]     (c) 2014 Daniel_Cortez
+[12:56:15] 	www.pro-pawn.ru
+[12:56:15]   Loaded.
+[12:56:15]  Loaded 3 plugins.
+
+[12:56:15] 
+[12:56:15] Filterscripts
+[12:56:15] ---------------
+[12:56:15]   Loaded 0 filterscripts.
+
+[12:56:15] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[12:56:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:56:48] 
+[12:56:48] Server Plugins
+[12:56:48] --------------
+[12:56:48]  Loading plugin: mysql
+[12:56:48]  >> plugin.mysql: R39-6 successfully loaded.
+[12:56:48]   Loaded.
+[12:56:48]  Loading plugin: streamer
+[12:56:48] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[12:56:48]   Loaded.
+[12:56:48]  Loading plugin: dc_cmd
+[12:56:48]   Daniel's CMD plugin v2.8
+[12:56:48]     (c) 2014 Daniel_Cortez
+[12:56:48] 	www.pro-pawn.ru
+[12:56:48]   Loaded.
+[12:56:48]  Loaded 3 plugins.
+
+[12:56:48] 
+[12:56:48] Filterscripts
+[12:56:48] ---------------
+[12:56:48]   Loaded 0 filterscripts.
+
+[12:56:48] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[12:56:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:57:13] 
+[12:57:13] Server Plugins
+[12:57:13] --------------
+[12:57:13]  Loaded 0 plugins.
+
+[12:57:13] 
+[12:57:13] Filterscripts
+[12:57:13] ---------------
+[12:57:13]   Loaded 0 filterscripts.
+
+[12:57:13] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[12:57:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:58:46] 
+[12:58:46] Server Plugins
+[12:58:46] --------------
+[12:58:46]  Loading plugin: streamer
+[12:58:46] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[12:58:46]   Loaded.
+[12:58:46]  Loaded 1 plugins.
+
+[12:58:46] 
+[12:58:46] Filterscripts
+[12:58:46] ---------------
+[12:58:46]   Loaded 0 filterscripts.
+
+[12:58:46] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[12:58:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:10:30] 
+[13:10:30] Server Plugins
+[13:10:30] --------------
+[13:10:30]  Loading plugin: streamer
+[13:10:30] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:10:30]   Loaded.
+[13:10:30]  Loaded 1 plugins.
+
+[13:10:31] 
+[13:10:31] Filterscripts
+[13:10:31] ---------------
+[13:10:31]   Loaded 0 filterscripts.
+
+[13:10:31] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[13:10:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:10:40] 
+[13:10:40] Server Plugins
+[13:10:40] --------------
+[13:10:40]  Loading plugin: streamer
+[13:10:40] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:10:40]   Loaded.
+[13:10:40]  Loaded 1 plugins.
+
+[13:10:40] 
+[13:10:40] Filterscripts
+[13:10:40] ---------------
+[13:10:40]   Loaded 0 filterscripts.
+
+[13:10:40] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[13:10:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:10:54] 
+[13:10:54] Server Plugins
+[13:10:54] --------------
+[13:10:54]  Loading plugin: streamer
+[13:10:54] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:10:54]   Loaded.
+[13:10:54]  Loaded 1 plugins.
+
+[13:10:55] 
+[13:10:55] Filterscripts
+[13:10:55] ---------------
+[13:10:55]   Loaded 0 filterscripts.
+
+[13:10:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:11:04] 
+[13:11:04] Server Plugins
+[13:11:04] --------------
+[13:11:04]  Loading plugin: streamer
+[13:11:04] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:11:04]   Loaded.
+[13:11:04]  Loaded 1 plugins.
+
+[13:11:04] 
+[13:11:04] Filterscripts
+[13:11:04] ---------------
+[13:11:04]   Loaded 0 filterscripts.
+
+[13:11:04] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:11:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:27:17] 
+[13:27:17] Server Plugins
+[13:27:17] --------------
+[13:27:17]  Loading plugin: streamer
+[13:27:17] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:27:17]   Loaded.
+[13:27:17]  Loaded 1 plugins.
+
+[13:27:17] 
+[13:27:17] Filterscripts
+[13:27:17] ---------------
+[13:27:17]   Loaded 0 filterscripts.
+
+[13:27:17] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:27:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:27:42] 
+[13:27:42] Server Plugins
+[13:27:42] --------------
+[13:27:42]  Loading plugin: streamer
+[13:27:42] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:27:42]   Loaded.
+[13:27:42]  Loading plugin: mysql
+[13:27:42]  >> plugin.mysql: R39-6 successfully loaded.
+[13:27:42]   Loaded.
+[13:27:42]  Loading plugin: dc_Cmd
+[13:27:42]   Daniel's CMD plugin v2.8
+[13:27:42]     (c) 2014 Daniel_Cortez
+[13:27:42] 	www.pro-pawn.ru
+[13:27:42]   Loaded.
+[13:27:42]  Loaded 3 plugins.
+
+[13:27:42] 
+[13:27:42] Filterscripts
+[13:27:42] ---------------
+[13:27:42]   Loaded 0 filterscripts.
+
+[13:27:42] Number of vehicle models: 0
